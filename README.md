@@ -88,9 +88,9 @@ O projeto inclui testes unitários e de integração para garantir a confiabilid
 Próximos passos" ou "Roadmap
 
 🗺 Roadmap
-Adicionar script data.sql para inicializar vagas (A1–A10, M1–M5)
-Configurar GitHub Actions para CI (build + testes automáticos)
-Criar frontend Angular 17+ (parkflow-frontend)
-Migrar para PostgreSQL em ambiente de produção
-Implementar autenticação JWT (login de operador)
-Adicionar relatórios diários (faturamento, ocupação)
+✅ Adicionar script data.sql para inicializar vagas (A1–A10, M1–M5)
+✅ Configurar GitHub Actions para CI (build + testes automáticos)
+✅ Criar frontend Angular 17+ (parkflow-frontend)
+✅ Migrar para PostgreSQL em ambiente de produção
+✅ Implementar autenticação JWT (login de operador)
+✅ Adicionar relatórios diários (faturamento, ocupação)
